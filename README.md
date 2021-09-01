@@ -1,3 +1,3 @@
 # Lucene
 
-Lucene全文检索
+基于Lucene的全文检索
