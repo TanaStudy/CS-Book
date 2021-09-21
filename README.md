@@ -1,3 +1,3 @@
-# Lucene
+# cs-book
 
-基于Lucene的全文检索
+cs-book
