@@ -81,12 +81,17 @@
 
 
 ## 并发
+**[Java并发编程之美](https://book.douban.com/subject/30351286/)**	 [百度网盘下载链接](https://pan.baidu.com/s/1lNcaVsEbrIkSqC50Pkb3rA) 	提取码: 7n55 
+
+《Java并发编程之美》分为三部分，第一部分为Java 并发编程基础篇；第二部分为Java 并发编程高级篇；第三部分为Java 并发编程实践篇。
+
+**Java并发编程实战（中文）** 	 [百度网盘下载链接](https://pan.baidu.com/s/1icIZlY1rbAVuov4Jbeup6g) 	提取码: 3mnv 
 
 
 
 
 ## JVM
-
+**深入理解Java虚拟机（第3版） **	[百度网盘下载链接]( https://pan.baidu.com/s/1-f0oXd8VWdlCtaMOJwb2Pw) 	提取码: e7a6 
 
 
 
