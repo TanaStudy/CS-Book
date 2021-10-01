@@ -28,9 +28,21 @@
 
 # 计算机基础
 ## 计算机网络
+**[计算机网络  自顶向下方法（第七版）](https://book.douban.com/subject/30280001/)**	[百度网盘下载链接](https://pan.baidu.com/s/1OjINLhiW4nOie9pmuLnChg)	提取码：hle2
+
+**[图解HTTP](https://book.douban.com/subject/25863515/)**	[百度网盘下载链接](https://pan.baidu.com/s/1HqT5PdiT8bvUwRF-tIN7Jw )	提取码：5dwe
+
 
 **[《图解TCP/IP（第5版）》](https://book.douban.com/subject/24737674/)**	[百度网盘下载链接](https://pan.baidu.com/s/1lpkfG4gEcthu-wchdj0S4A)	提取码: 3bwq 
 
+**[网络是怎样连接的](https://book.douban.com/subject/26941639/)**	[百度网盘下载链接](https://pan.baidu.com/s/1-92_gC7apAR2UvgfEngYRA )	提取码：5j4o
+
+**tcp源码分析**	[百度网盘下载链接](https://pan.baidu.com/s/12C-mZYqv-V_gEFbXMmCdeA )
+提取码：m85w
+
+**Wireshark网络分析就这么简单**	[百度网盘下载链接](https://pan.baidu.com/s/1Gv2FcbyQSW7bOEjeqn0bnA )	提取码：3ct7
+
+**HTTP权威指南（中文版）**	[百度网盘下载链接](https://pan.baidu.com/s/1WjUZdkJDppXkoBigr2zjvg )	提取码：bpoq
 
 
 ## 操作系统
