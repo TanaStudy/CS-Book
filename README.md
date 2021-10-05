@@ -49,6 +49,9 @@
 
 **[《操作系统导论》](https://book.douban.com/subject/33463930/)**	[百度网盘下载链接](https://pan.baidu.com/s/1ffx8tJkz0GVF_EPBlHSpiQ)	提取码: 7xeb 
 
+**[现代操作系统（第3版）](https://book.douban.com/subject/3852290/)** 	[百度网盘下载链接](https://pan.baidu.com/s/17lQocBOVmuVU-iZGdU2qQg )	提取码：q26s
+
+**[深入理解计算机系统（原书第2版）](https://book.douban.com/subject/5333562/)**	[百度网盘下载链接](https://pan.baidu.com/s/19ZEPKNUf1UCmEnr3UhDYAA )	提取码：8vhc
 
 
 ## 算法
