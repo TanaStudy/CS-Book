@@ -53,6 +53,10 @@
 
 **[深入理解计算机系统（原书第2版）](https://book.douban.com/subject/5333562/)**	[百度网盘下载链接](https://pan.baidu.com/s/19ZEPKNUf1UCmEnr3UhDYAA )	提取码：8vhc
 
+**30天自制操作系统**	[百度网盘下载链接](https://pan.baidu.com/s/1g3z021gm8aXBV9ZFfQdYiw )	提取码：xvt9
+
+**自己动手写操作系统**	[百度网盘下载链接](https://pan.baidu.com/s/1AqvrYqL4mItiAc5cNFoabA )	提取码：klyk
+
 
 ## 算法
 **[《算法（第4版）》](https://book.douban.com/subject/19952400/)**	[百度网盘下载链接](https://pan.baidu.com/s/1knbdNB3HYZXt_zk5j-RSPA )	提取码: 24mx 
