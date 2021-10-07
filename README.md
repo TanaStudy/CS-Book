@@ -65,6 +65,14 @@
 
 **[《labuladong的算法小抄》](https://book.douban.com/subject/35252621/)**	[百度网盘下载链接](https://pan.baidu.com/s/1MUCpf32O6tUu5qERHzDWMg)	提取码: 9a6u 
 
+**[《我的第一本算法书》](https://book.douban.com/subject/30357170/)**	[百度网盘下载链接](https://pan.baidu.com/s/1_gxLddz8LPKAzRwzo6H_Sg )	提取码：nm61
+
+**[《啊哈！算法》](https://book.douban.com/subject/25894685/)**	[百度网盘下载链接](https://pan.baidu.com/s/1xPiDvV6KTya_3jn2LembPw )	提取码：sqo7
+
+**[《剑指Offer名企面试官精讲典型编程题》](https://book.douban.com/subject/6966465/)**	[百度网盘下载链接](https://pan.baidu.com/s/12c5JZ0CRIKAque7hvEI2nw )	提取码：8cxb
+
+
+
 
 
 **《LeetCode 101 - A （谷歌师兄的刷题笔记)》**	[百度网盘下载链接](https://pan.baidu.com/s/1WzDYSyx9w73EjySqdbJ99Q)	提取码: kqe1 
@@ -72,6 +80,10 @@
 
 
 **《西法的刷题秘籍》**	[百度网盘下载链接](https://pan.baidu.com/s/1bH6xZGEKmVjvFh15xJTbBA)	提取码: ii8q 
+
+**《背包九讲》**	[百度网盘下载链接](https://pan.baidu.com/s/19-CfACnuo6zmoyiL8Gutqw) 	提取码：qw6u
+
+**《程序员的算法趣题》**	 [百度网盘下载链接](https://pan.baidu.com/s/1iRHq_bHKPFg3MvJtugkIRg )	提取码：j3d3
 
  
 
