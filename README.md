@@ -75,7 +75,7 @@
 
 
 
-**《LeetCode 101 - A （谷歌师兄的刷题笔记)》**	[百度网盘下载链接](https://pan.baidu.com/s/1WzDYSyx9w73EjySqdbJ99Q)	提取码: kqe1 
+**《LeetCode 101》**	[百度网盘下载链接](https://pan.baidu.com/s/1WzDYSyx9w73EjySqdbJ99Q)	提取码: kqe1 
 
 
 
