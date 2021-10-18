@@ -89,6 +89,13 @@
 
 ## 数据结构
 
+**[《数据结构与算法 Python语言描述》](https://book.douban.com/subject/26702568/)**  [百度网盘下载链接](https://pan.baidu.com/s/12fszxUkeI8jqHAXk4baowg)	提取码：u33u
+
+**[《数据结构与算法分析 C语言描述》](https://book.douban.com/subject/1139426/)**	 [百度网盘下载链接](https://pan.baidu.com/s/1S9-a_rUpZ0Ekx4_5przXXQ )	提取码：sen7
+
+**[《数据结构与算法分析 Java语言描述》](https://book.douban.com/subject/3351237/)**	 [百度网盘下载链接](https://pan.baidu.com/s/1Jo4H-d8Yz5TJqkPT0Lil_A )	提取码：mh29
+
+
 
 # 数据库
 
