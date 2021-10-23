@@ -101,7 +101,9 @@
 
 ## 数据库基础
 
+**[数据库系统实现](https://book.douban.com/subject/4838430/)**	[百度网盘下载链接](https://pan.baidu.com/s/1WfbQbOQiP4VPA5jksY260w )	提取码：58ji
 
+**[数据库索引设计与优化](https://book.douban.com/subject/26419771/)**	[百度网盘下载链接](https://pan.baidu.com/s/1V1nAFOYjgPu1qyAhRKPFuQ) 	提取码：ysms
 
 ## MySQL
 
