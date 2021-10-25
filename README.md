@@ -37,8 +37,7 @@
 
 **[《网络是怎样连接的》](https://book.douban.com/subject/26941639/)**	[百度网盘下载链接](https://pan.baidu.com/s/1-92_gC7apAR2UvgfEngYRA )	提取码：5j4o
 
-**《tcp源码分析》**	[百度网盘下载链接](https://pan.baidu.com/s/12C-mZYqv-V_gEFbXMmCdeA )
-提取码：m85w
+**《tcp源码分析》**	[百度网盘下载链接](https://pan.baidu.com/s/12C-mZYqv-V_gEFbXMmCdeA )	提取码：m85w
 
 **《Wireshark网络分析就这么简单》**	[百度网盘下载链接](https://pan.baidu.com/s/1Gv2FcbyQSW7bOEjeqn0bnA )	提取码：3ct7
 
@@ -72,9 +71,6 @@
 **[《剑指Offer名企面试官精讲典型编程题》](https://book.douban.com/subject/6966465/)**	[百度网盘下载链接](https://pan.baidu.com/s/12c5JZ0CRIKAque7hvEI2nw )	提取码：8cxb
 
 
-
-
-
 **《LeetCode 101》**	[百度网盘下载链接](https://pan.baidu.com/s/1WzDYSyx9w73EjySqdbJ99Q)	提取码: kqe1 
 
 
@@ -106,7 +102,11 @@
 **[数据库索引设计与优化](https://book.douban.com/subject/26419771/)**	[百度网盘下载链接](https://pan.baidu.com/s/1V1nAFOYjgPu1qyAhRKPFuQ) 	提取码：ysms
 
 ## MySQL
+**[MYSQL必知必会](https://book.douban.com/subject/3354490/)**	[百度网盘下载链接](https://pan.baidu.com/s/1GtPbOzpVhFGzvWgXLw7wNw )	提取码：ow5f
 
+**[高性能MySQL(第3版)](https://book.douban.com/subject/23008813/)**	[百度网盘下载链接](https://pan.baidu.com/s/13zm0j0HMBtWgLqiQ1Zl41g )	提取码：kdnu
+
+**[MySQL技术内幕](https://book.douban.com/subject/24708143/)**	[百度网盘下载链接](https://pan.baidu.com/s/1_1XIACDukyOJXzgxgkl4EQ )	提取码：bltn
 
 
 ## Redis
