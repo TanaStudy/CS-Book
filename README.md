@@ -104,7 +104,11 @@
 
 
 ## Redis
+**[redis设计与实现](https://book.douban.com/subject/25900156/)**	[百度网盘下载链接](https://pan.baidu.com/s/1q-ch1nj6Jga30tltxjkueQ)	提取码：wwc4
 
+**[Redis实战](https://book.douban.com/subject/26612779/)**	[百度网盘下载链接](https://pan.baidu.com/s/1erora33EmgMnZgzZQe4Kcg) 	提取码：awyo
+
+**Redis开发与运维**	[百度网盘下载链接](https://pan.baidu.com/s/1PD_50zkN8nLhMdRhPYLqpw)	提取码：e821
 
 
 # Java
