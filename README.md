@@ -91,24 +91,24 @@
 
 ## 数据库基础
 
-**[数据库系统实现](https://book.douban.com/subject/4838430/)**	[百度网盘下载链接](https://pan.baidu.com/s/1WfbQbOQiP4VPA5jksY260w )	提取码：58ji
+**[《数据库系统实现》](https://book.douban.com/subject/4838430/)**	[百度网盘下载链接](https://pan.baidu.com/s/1WfbQbOQiP4VPA5jksY260w )	提取码：58ji
 
-**[数据库索引设计与优化](https://book.douban.com/subject/26419771/)**	[百度网盘下载链接](https://pan.baidu.com/s/1V1nAFOYjgPu1qyAhRKPFuQ) 	提取码：ysms
+**[《数据库索引设计与优化》](https://book.douban.com/subject/26419771/)**	[百度网盘下载链接](https://pan.baidu.com/s/1V1nAFOYjgPu1qyAhRKPFuQ) 	提取码：ysms
 
 ## MySQL
-**[MYSQL必知必会](https://book.douban.com/subject/3354490/)**	[百度网盘下载链接](https://pan.baidu.com/s/1GtPbOzpVhFGzvWgXLw7wNw )	提取码：ow5f
+**[《MYSQL必知必会》](https://book.douban.com/subject/3354490/)**	[百度网盘下载链接](https://pan.baidu.com/s/1GtPbOzpVhFGzvWgXLw7wNw )	提取码：ow5f
 
-**[高性能MySQL(第3版)](https://book.douban.com/subject/23008813/)**	[百度网盘下载链接](https://pan.baidu.com/s/13zm0j0HMBtWgLqiQ1Zl41g )	提取码：kdnu
+**[《高性能MySQL(第3版)》](https://book.douban.com/subject/23008813/)**	[百度网盘下载链接](https://pan.baidu.com/s/13zm0j0HMBtWgLqiQ1Zl41g )	提取码：kdnu
 
-**[MySQL技术内幕](https://book.douban.com/subject/24708143/)**	[百度网盘下载链接](https://pan.baidu.com/s/1_1XIACDukyOJXzgxgkl4EQ )	提取码：bltn
+**[《MySQL技术内幕》](https://book.douban.com/subject/24708143/)**	[百度网盘下载链接](https://pan.baidu.com/s/1_1XIACDukyOJXzgxgkl4EQ )	提取码：bltn
 
 
 ## Redis
-**[redis设计与实现](https://book.douban.com/subject/25900156/)**	[百度网盘下载链接](https://pan.baidu.com/s/1q-ch1nj6Jga30tltxjkueQ)	提取码：wwc4
+**[《redis设计与实现》](https://book.douban.com/subject/25900156/)**	[百度网盘下载链接](https://pan.baidu.com/s/1q-ch1nj6Jga30tltxjkueQ)	提取码：wwc4
 
-**[Redis实战](https://book.douban.com/subject/26612779/)**	[百度网盘下载链接](https://pan.baidu.com/s/1erora33EmgMnZgzZQe4Kcg) 	提取码：awyo
+**[《Redis实战》](https://book.douban.com/subject/26612779/)**	[百度网盘下载链接](https://pan.baidu.com/s/1erora33EmgMnZgzZQe4Kcg) 	提取码：awyo
 
-**Redis开发与运维**	[百度网盘下载链接](https://pan.baidu.com/s/1PD_50zkN8nLhMdRhPYLqpw)	提取码：e821
+**《Redis开发与运维》**	[百度网盘下载链接](https://pan.baidu.com/s/1PD_50zkN8nLhMdRhPYLqpw)	提取码：e821
 
 
 # Java
