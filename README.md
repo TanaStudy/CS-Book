@@ -1,6 +1,6 @@
 
 
-**mark了一些计算机类的书籍，希望自己以后有时间能看看。所有的百度网盘下载链接均为pdf，无zip解压密码**
+**mark了一些计算机类的书籍，希望自己以后有时间能阅读。所有的百度网盘下载链接均为pdf，无zip解压密码**
 
 
 
@@ -39,9 +39,9 @@
 
 **《tcp源码分析》**	[百度网盘下载链接](https://pan.baidu.com/s/12C-mZYqv-V_gEFbXMmCdeA )	提取码：m85w
 
-**《Wireshark网络分析就这么简单》**	[百度网盘下载链接](https://pan.baidu.com/s/1Gv2FcbyQSW7bOEjeqn0bnA )	提取码：3ct7
+**[《Wireshark网络分析就这么简单》](https://book.douban.com/subject/26268767/)**	[百度网盘下载链接](https://pan.baidu.com/s/1Gv2FcbyQSW7bOEjeqn0bnA )	提取码：3ct7
 
-**《HTTP权威指南（中文版）》**	[百度网盘下载链接](https://pan.baidu.com/s/1WjUZdkJDppXkoBigr2zjvg )	提取码：bpoq
+**[《HTTP权威指南（中文版）》](https://book.douban.com/subject/10746113/)**	[百度网盘下载链接](https://pan.baidu.com/s/1WjUZdkJDppXkoBigr2zjvg )	提取码：bpoq
 
 
 ## 操作系统
@@ -52,9 +52,9 @@
 
 **[《深入理解计算机系统（原书第2版）》](https://book.douban.com/subject/5333562/)**	[百度网盘下载链接](https://pan.baidu.com/s/19ZEPKNUf1UCmEnr3UhDYAA )	提取码：8vhc
 
-**《30天自制操作系统》**	[百度网盘下载链接](https://pan.baidu.com/s/1g3z021gm8aXBV9ZFfQdYiw )	提取码：xvt9
+**[《30天自制操作系统》](https://book.douban.com/subject/11530329/)**	[百度网盘下载链接](https://pan.baidu.com/s/1g3z021gm8aXBV9ZFfQdYiw )	提取码：xvt9
 
-**《自己动手写操作系统》**	[百度网盘下载链接](https://pan.baidu.com/s/1AqvrYqL4mItiAc5cNFoabA )	提取码：klyk
+**[《自己动手写操作系统》](https://book.douban.com/subject/1422377/)**	[百度网盘下载链接](https://pan.baidu.com/s/1AqvrYqL4mItiAc5cNFoabA )	提取码：klyk
 
 
 ## 算法
@@ -74,7 +74,7 @@
 
 **《背包九讲》**	[百度网盘下载链接](https://pan.baidu.com/s/19-CfACnuo6zmoyiL8Gutqw) 	提取码：qw6u
 
-**《程序员的算法趣题》**	 [百度网盘下载链接](https://pan.baidu.com/s/1iRHq_bHKPFg3MvJtugkIRg )	提取码：j3d3
+**[《程序员的算法趣题》](https://book.douban.com/subject/27091348/)**	 [百度网盘下载链接](https://pan.baidu.com/s/1iRHq_bHKPFg3MvJtugkIRg )	提取码：j3d3
 
 
 ## 数据结构
@@ -108,7 +108,7 @@
 
 **[《Redis实战》](https://book.douban.com/subject/26612779/)**	[百度网盘下载链接](https://pan.baidu.com/s/1erora33EmgMnZgzZQe4Kcg) 	提取码：awyo
 
-**《Redis开发与运维》**	[百度网盘下载链接](https://pan.baidu.com/s/1PD_50zkN8nLhMdRhPYLqpw)	提取码：e821
+**[《Redis开发与运维》](https://book.douban.com/subject/26971561/)**	[百度网盘下载链接](https://pan.baidu.com/s/1PD_50zkN8nLhMdRhPYLqpw)	提取码：e821
 
 
 # Java
@@ -124,13 +124,13 @@
 
 
 
-**《Java并发编程实战（中文）》** 	 [百度网盘下载链接](https://pan.baidu.com/s/1icIZlY1rbAVuov4Jbeup6g) 	提取码: 3mnv 
+**[《Java并发编程实战（中文）》](https://book.douban.com/subject/10484692/)** 	 [百度网盘下载链接](https://pan.baidu.com/s/1icIZlY1rbAVuov4Jbeup6g) 	提取码: 3mnv 
 
 
 
 
 ## JVM
-**《深入理解Java虚拟机（第3版）》**	[百度网盘下载链接]( https://pan.baidu.com/s/1-f0oXd8VWdlCtaMOJwb2Pw) 	提取码: e7a6 
+**[《深入理解Java虚拟机（第3版）》](https://book.douban.com/subject/34907497/)**	[百度网盘下载链接]( https://pan.baidu.com/s/1-f0oXd8VWdlCtaMOJwb2Pw) 	提取码: e7a6 
 
 
 
