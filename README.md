@@ -91,20 +91,20 @@
 
 ## 数据库基础
 
-**[《数据库系统实现》](https://book.douban.com/subject/4838430/)**	[百度网盘下载链接](https://pan.baidu.com/s/1WfbQbOQiP4VPA5jksY260w )	提取码：58ji
+**[《数据库系统实现（第2版）》](https://book.douban.com/subject/4838430/)**	[百度网盘下载链接](https://pan.baidu.com/s/1WfbQbOQiP4VPA5jksY260w )	提取码：58ji
 
 **[《数据库索引设计与优化》](https://book.douban.com/subject/26419771/)**	[百度网盘下载链接](https://pan.baidu.com/s/1V1nAFOYjgPu1qyAhRKPFuQ) 	提取码：ysms
 
 ## MySQL
 **[《MYSQL必知必会》](https://book.douban.com/subject/3354490/)**	[百度网盘下载链接](https://pan.baidu.com/s/1GtPbOzpVhFGzvWgXLw7wNw )	提取码：ow5f
 
-**[《高性能MySQL(第3版)》](https://book.douban.com/subject/23008813/)**	[百度网盘下载链接](https://pan.baidu.com/s/13zm0j0HMBtWgLqiQ1Zl41g )	提取码：kdnu
+**[《高性能MySQL（第3版）》](https://book.douban.com/subject/23008813/)**	[百度网盘下载链接](https://pan.baidu.com/s/13zm0j0HMBtWgLqiQ1Zl41g )	提取码：kdnu
 
-**[《MySQL技术内幕》](https://book.douban.com/subject/24708143/)**	[百度网盘下载链接](https://pan.baidu.com/s/1_1XIACDukyOJXzgxgkl4EQ )	提取码：bltn
+**[《MySQL技术内幕  InnoDB存储引擎  （第2版）》](https://book.douban.com/subject/24708143/)**	[百度网盘下载链接](https://pan.baidu.com/s/1_1XIACDukyOJXzgxgkl4EQ )	提取码：bltn
 
 
 ## Redis
-**[《redis设计与实现》](https://book.douban.com/subject/25900156/)**	[百度网盘下载链接](https://pan.baidu.com/s/1q-ch1nj6Jga30tltxjkueQ)	提取码：wwc4
+**[《redis设计与实现（第2版）》](https://book.douban.com/subject/25900156/)**	[百度网盘下载链接](https://pan.baidu.com/s/1q-ch1nj6Jga30tltxjkueQ)	提取码：wwc4
 
 **[《Redis实战》](https://book.douban.com/subject/26612779/)**	[百度网盘下载链接](https://pan.baidu.com/s/1erora33EmgMnZgzZQe4Kcg) 	提取码：awyo
 
@@ -117,7 +117,23 @@
 
 ## Java 基础
 
+**[Effective java 中文版（第2版）](https://book.douban.com/subject/3360807/)**	[百度网盘下载链接](https://pan.baidu.com/s/1WkNwIuvO6XxogM_RX7s68Q)	提取码：w04h
 
+**[Java核心技术·卷 I（原书第10版）](https://book.douban.com/subject/26880667/)**	[百度网盘下载链接](https://pan.baidu.com/s/1vPpxZ2Gy0H9KXyHXHAswhQ)	提取码：4sw3
+
+**[Java核心技术·卷 II（原书第10版）](https://book.douban.com/subject/27165931/)**	[百度网盘下载链接](https://pan.baidu.com/s/1VODfZa2wVYlcqSOYjkVljg)	提取码：8f4r
+
+**[Head First Java（第2版）](https://book.douban.com/subject/2000732/)**	[百度网盘下载链接](https://pan.baidu.com/s/1zNhNFZREXSgmajsQm5mOHg )	提取码：u132
+
+**[Java编程思想 （第4版）](https://book.douban.com/subject/2130190/)**	[百度网盘下载链接](https://pan.baidu.com/s/1ez7Yfy0bINvWG4bWy7s25w )	提取码：gu1n
+
+**[JAVA网络编程（第4版）](https://book.douban.com/subject/1438754/)**	[百度网盘下载链接](https://pan.baidu.com/s/1L31PVogn8Mq8b6VL1Eaz4A )	提取码：3630
+
+**[Java 8实战](https://book.douban.com/subject/26772632/)**	[百度网盘下载链接](https://pan.baidu.com/s/1uXnyR8iBWyJdXdMATkJKvA) 	提取码：kubp
+
+**[写给大忙人看的Java SE 8](https://book.douban.com/subject/26274206/)**	[百度网盘下载链接](https://pan.baidu.com/s/1qKKgiLk0L5mz4Lz0l38YIg)	提取码：k6d3
+
+**jdk1.8 api 中文版**[百度网盘下载链接](https://pan.baidu.com/s/1scLmdI8ZCKieZWGdxPbCZA)	提取码：gxlz
 
 ## 并发
 **[《Java并发编程之美》](https://book.douban.com/subject/30351286/)**	 [百度网盘下载链接](https://pan.baidu.com/s/1lNcaVsEbrIkSqC50Pkb3rA) 	提取码: 7n55 
