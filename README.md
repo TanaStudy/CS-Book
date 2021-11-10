@@ -117,23 +117,23 @@
 
 ## Java 基础
 
-**[Effective java 中文版（第2版）](https://book.douban.com/subject/3360807/)**	[百度网盘下载链接](https://pan.baidu.com/s/1WkNwIuvO6XxogM_RX7s68Q)	提取码：w04h
+**[《Effective java 中文版（第2版）》](https://book.douban.com/subject/3360807/)**	[百度网盘下载链接](https://pan.baidu.com/s/1WkNwIuvO6XxogM_RX7s68Q)	提取码：w04h
 
-**[Java核心技术·卷 I（原书第10版）](https://book.douban.com/subject/26880667/)**	[百度网盘下载链接](https://pan.baidu.com/s/1vPpxZ2Gy0H9KXyHXHAswhQ)	提取码：4sw3
+**[《Java核心技术·卷 I（原书第10版）》](https://book.douban.com/subject/26880667/)**	[百度网盘下载链接](https://pan.baidu.com/s/1vPpxZ2Gy0H9KXyHXHAswhQ)	提取码：4sw3
 
-**[Java核心技术·卷 II（原书第10版）](https://book.douban.com/subject/27165931/)**	[百度网盘下载链接](https://pan.baidu.com/s/1VODfZa2wVYlcqSOYjkVljg)	提取码：8f4r
+**[《Java核心技术·卷 II（原书第10版）》](https://book.douban.com/subject/27165931/)**	[百度网盘下载链接](https://pan.baidu.com/s/1VODfZa2wVYlcqSOYjkVljg)	提取码：8f4r
 
-**[Head First Java（第2版）](https://book.douban.com/subject/2000732/)**	[百度网盘下载链接](https://pan.baidu.com/s/1zNhNFZREXSgmajsQm5mOHg )	提取码：u132
+**[《Head First Java（第2版）》](https://book.douban.com/subject/2000732/)**	[百度网盘下载链接](https://pan.baidu.com/s/1zNhNFZREXSgmajsQm5mOHg )	提取码：u132
 
-**[Java编程思想 （第4版）](https://book.douban.com/subject/2130190/)**	[百度网盘下载链接](https://pan.baidu.com/s/1ez7Yfy0bINvWG4bWy7s25w )	提取码：gu1n
+**[《Java编程思想 （第4版）》](https://book.douban.com/subject/2130190/)**	[百度网盘下载链接](https://pan.baidu.com/s/1ez7Yfy0bINvWG4bWy7s25w )	提取码：gu1n
 
-**[JAVA网络编程（第4版）](https://book.douban.com/subject/1438754/)**	[百度网盘下载链接](https://pan.baidu.com/s/1L31PVogn8Mq8b6VL1Eaz4A )	提取码：3630
+**[《JAVA网络编程（第4版）》](https://book.douban.com/subject/1438754/)**		[百度网盘下载链接](https://pan.baidu.com/s/1L31PVogn8Mq8b6VL1Eaz4A )	提取码：3630
 
-**[Java 8实战](https://book.douban.com/subject/26772632/)**	[百度网盘下载链接](https://pan.baidu.com/s/1uXnyR8iBWyJdXdMATkJKvA) 	提取码：kubp
+**[《Java 8实战》](https://book.douban.com/subject/26772632/)**		[百度网盘下载链接](https://pan.baidu.com/s/1uXnyR8iBWyJdXdMATkJKvA) 	提取码：kubp
 
-**[写给大忙人看的Java SE 8](https://book.douban.com/subject/26274206/)**	[百度网盘下载链接](https://pan.baidu.com/s/1qKKgiLk0L5mz4Lz0l38YIg)	提取码：k6d3
+**[《写给大忙人看的Java SE 8》](https://book.douban.com/subject/26274206/)**		[百度网盘下载链接](https://pan.baidu.com/s/1qKKgiLk0L5mz4Lz0l38YIg)	提取码：k6d3
 
-**jdk1.8 api 中文版**[百度网盘下载链接](https://pan.baidu.com/s/1scLmdI8ZCKieZWGdxPbCZA)	提取码：gxlz
+**《jdk1.8 api 中文版》**	[百度网盘下载链接](https://pan.baidu.com/s/1scLmdI8ZCKieZWGdxPbCZA)	提取码：gxlz
 
 ## 并发
 **[《Java并发编程之美》](https://book.douban.com/subject/30351286/)**	 [百度网盘下载链接](https://pan.baidu.com/s/1lNcaVsEbrIkSqC50Pkb3rA) 	提取码: 7n55 
