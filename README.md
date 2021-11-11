@@ -139,8 +139,16 @@
 **[《Java并发编程之美》](https://book.douban.com/subject/30351286/)**	 [百度网盘下载链接](https://pan.baidu.com/s/1lNcaVsEbrIkSqC50Pkb3rA) 	提取码: 7n55 
 
 
-
 **[《Java并发编程实战（中文）》](https://book.douban.com/subject/10484692/)** 	 [百度网盘下载链接](https://pan.baidu.com/s/1icIZlY1rbAVuov4Jbeup6g) 	提取码: 3mnv 
+
+
+**[《实战Java高并发程序设计》](https://book.douban.com/subject/26663605/)**	 [百度网盘下载链接](https://pan.baidu.com/s/1dPDiDNxMfExBSMP8ie724A) 	提取码：mvlk
+
+
+**[《Java并发编程的艺术》](https://book.douban.com/subject/26591326/)**	 [百度网盘下载链接](https://pan.baidu.com/s/1Y-jI4DKwfqI4A9720iEdMA )	提取码：8xcj
+
+
+**[《Java高并发编程详解》](https://book.douban.com/subject/30255689/)**	[百度网盘下载链接](https://pan.baidu.com/s/150MjrnINPt8TzfPmrfDZvg) 	提取码：1rj7
 
 
 
