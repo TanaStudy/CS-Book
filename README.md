@@ -156,6 +156,9 @@
 ## JVM
 **[《深入理解Java虚拟机（第3版）》](https://book.douban.com/subject/34907497/)**	[百度网盘下载链接]( https://pan.baidu.com/s/1-f0oXd8VWdlCtaMOJwb2Pw) 	提取码: e7a6 
 
+**[实战JAVA虚拟机](https://book.douban.com/subject/26354292/)**	[百度网盘下载链接](https://pan.baidu.com/s/1kXHG9wLQKmj10HC8wLYAYA)	提取码：attj
+
+**[自己动手写Java虚拟机](https://book.douban.com/subject/26802084//)**	[百度网盘下载链接](https://pan.baidu.com/s/10X0bivtLIfJ-O_yDukivWA )	提取码：fa1f
 
 
 
