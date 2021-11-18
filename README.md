@@ -175,7 +175,19 @@
 **《Spring MVC+MYBatis企业应用实战》**	[百度网盘下载链接](https://pan.baidu.com/s/1TlMh0vAmuOde1v0kBOTIaw) 	提取码：9234
 
 ## 面试
+**《JavaGuide面试突击版》**	[百度网盘下载链接](https://pan.baidu.com/s/14RnJRAWNLixzT3k-AxgKXQ) 	提取码：j1q9
 
+**《Java面试题精华集》**	[百度网盘下载链接](https://pan.baidu.com/s/1AJvKoD2LZpiSTTT4YzcISw) 	提取码：kqme
+
+# 微服务&分布式
+**[《分布式系统概念与设计 （第5版）》](https://book.douban.com/subject/21624776/)**		[百度网盘下载链接](https://pan.baidu.com/s/11qhM1MSZgc1pMZ-uzfPhrA) 
+提取码：h66r
+
+**[Spring Cloud微服务实战](https://book.douban.com/subject/27025912/)**	[百度网盘下载链接](https://pan.baidu.com/s/1YD8AyE_75xmfj7nMXSDTVA) 	提取码：f8b8
+
+**[Spring Cloud与Docker微服务架构实战](https://book.douban.com/subject/27028228/)**	[百度网盘下载链接](https://pan.baidu.com/s/1UWjIMgrb66X_R-ANU-wV_Q) 	提取码：qre5
+
+**[深入理解Spring Cloud与微服务构建](https://book.douban.com/subject/30180533/)**		[百度网盘下载链接](https://pan.baidu.com/s/1UUmZJyzOjLRq7B1HuGw4Hw) 	提取码：5sbc
 # 设计模式
 
 
