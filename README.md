@@ -189,7 +189,17 @@
 
 **[《深入理解Spring Cloud与微服务构建》](https://book.douban.com/subject/30180533/)**		[百度网盘下载链接](https://pan.baidu.com/s/1UUmZJyzOjLRq7B1HuGw4Hw) 	提取码：5sbc
 # 设计模式
+**[《Head First 设计模式（中文版）》](https://book.douban.com/subject/2243615/)**		[百度网盘下载链接](https://pan.baidu.com/s/1PZJgwgDNREvE8NfC--LDbA) 	提取码：45a3
 
+**[《大话设计模式》](https://book.douban.com/subject/2334288/)**	[百度网盘下载链接](https://pan.baidu.com/s/1_qZVSW0YTUr-kblSzW9wNQ )	提取码：h7hn
+
+**[《图解设计模式》](https://book.douban.com/subject/26933281/)**	[百度网盘下载链接](https://pan.baidu.com/s/1j6WgxeY20cp2ia2RHaNVaQ) 	提取码：zlvv
+
+**[《研磨设计模式》](https://book.douban.com/subject/5343318/)**	[百度网盘下载链接](https://pan.baidu.com/s/1c41YjEq0g0cEPHKPBU3gDQ) 	提取码：sqyx
+
+**[《设计模式：可复用面向对象软件的基础》](https://book.douban.com/subject/1052241/)**	[百度网盘下载链接](https://pan.baidu.com/s/1U9O8-7wA4fLf4EJM5Whm9Q )	提取码：gzmx
+
+# 面经
 
 
 # 免责声明
