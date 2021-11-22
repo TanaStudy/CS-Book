@@ -200,7 +200,8 @@
 **[《设计模式：可复用面向对象软件的基础》](https://book.douban.com/subject/1052241/)**	[百度网盘下载链接](https://pan.baidu.com/s/1U9O8-7wA4fLf4EJM5Whm9Q )	提取码：gzmx
 
 # 面经
-
+**《内推熊面经》**	[百度网盘下载链接](https://pan.baidu.com/s/1bf0ifKDJDe4RMnM0u-eBFQ) 	提取码：t0fw
+**《字节跳动笔试真题大全》**	[百度网盘下载链接](https://pan.baidu.com/s/1ymFWg_9BtNn8UMbTjSV0sw )	提取码：mmuv
 
 # 免责声明
 书籍全部来源于网络其他人的整理，这里只是收集整理了他们的链接，如有侵权，马上联系我，我立马删除对应链接。如有链接失效，也请及时联系我。我的邮箱：851901870@qq.com
