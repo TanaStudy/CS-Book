@@ -1,32 +1,44 @@
 
 
-**mark了一些计算机类的书籍，希望自己以后有时间能阅读。所有的百度网盘下载链接均为pdf，无zip解压密码**
+**mark了一些计算机类的书籍。所有的百度网盘下载链接均为pdf，无zip解压密码**
 
 
 
-**目录** ：
+| 计算机基础 | 数据库 | Java |微服务&分布式|设计模式| 面试面经 | 免责声明 |
+| :---: | :----: | :---: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
+| [:computer:](#computer-计算机基础) | [:floppy_disk:](#floppy_disk-数据库) | [:art:](#art-Java) |[:cloud:](#cloud-微服务&分布式)|[:pencil2:](#pencil2-设计模式) |[:memo:](#memo-面试面经)| [:bulb:](#bulb-免责申明) |
 
-- [计算机基础](#计算机基础)
+
+
+- [计算机基础](#computer-计算机基础)
+  
   - [计算机网络](#计算机网络)
   - [操作系统](#操作系统)
   - [算法](#算法)
   - [数据结构](#数据结构)
-- [数据库](#数据库)
+  
+- [数据库](#floppy_disk-数据库)
   - [数据库基础](#数据库基础)
   - [MySQL](#mysql)
   - [Redis](#redis)
-- [Java](#java)
+  
+- [Java](#art-Java)
   - [Java 基础](#java-基础)
   - [并发](#并发)
   - [JVM](#jvm)
   - [Spring/SpringBoot](#springspringboot)
-  - [面试](#面试)
-- [微服务&分布式](#微服务&分布式)
-- [设计模式](#设计模式)
-- [面经](#面经)
-- [免责声明](#免责声明)
+  
+- [微服务&分布式](#cloud-微服务&分布式)
 
-# 计算机基础
+- [设计模式](#pencil2-设计模式)
+
+- [面经](#memo-面试面经)
+
+- [免责声明](#bulb-免责申明)
+
+  
+
+# :computer: 计算机基础
 ## 计算机网络
 **[《计算机网络  自顶向下方法（第七版）》](https://book.douban.com/subject/30280001/)**	[百度网盘下载链接](https://pan.baidu.com/s/1OjINLhiW4nOie9pmuLnChg)	提取码：hle2
 
@@ -44,6 +56,8 @@
 **[《HTTP权威指南（中文版）》](https://book.douban.com/subject/10746113/)**	[百度网盘下载链接](https://pan.baidu.com/s/1WjUZdkJDppXkoBigr2zjvg )	提取码：bpoq
 
 
+
+
 ## 操作系统
 
 **[《操作系统导论》](https://book.douban.com/subject/33463930/)**	[百度网盘下载链接](https://pan.baidu.com/s/1ffx8tJkz0GVF_EPBlHSpiQ)	提取码: 7xeb 
@@ -55,6 +69,8 @@
 **[《30天自制操作系统》](https://book.douban.com/subject/11530329/)**	[百度网盘下载链接](https://pan.baidu.com/s/1g3z021gm8aXBV9ZFfQdYiw )	提取码：xvt9
 
 **[《自己动手写操作系统》](https://book.douban.com/subject/1422377/)**	[百度网盘下载链接](https://pan.baidu.com/s/1AqvrYqL4mItiAc5cNFoabA )	提取码：klyk
+
+
 
 
 ## 算法
@@ -77,6 +93,8 @@
 **[《程序员的算法趣题》](https://book.douban.com/subject/27091348/)**	 [百度网盘下载链接](https://pan.baidu.com/s/1iRHq_bHKPFg3MvJtugkIRg )	提取码：j3d3
 
 
+
+
 ## 数据结构
 
 **[《数据结构与算法 Python语言描述》](https://book.douban.com/subject/26702568/)**  [百度网盘下载链接](https://pan.baidu.com/s/12fszxUkeI8jqHAXk4baowg)	提取码：u33u
@@ -87,7 +105,7 @@
 
 
 
-# 数据库
+# :floppy_disk: 数据库
 
 ## 数据库基础
 
@@ -95,12 +113,17 @@
 
 **[《数据库索引设计与优化》](https://book.douban.com/subject/26419771/)**	[百度网盘下载链接](https://pan.baidu.com/s/1V1nAFOYjgPu1qyAhRKPFuQ) 	提取码：ysms
 
+
+
+
 ## MySQL
 **[《MYSQL必知必会》](https://book.douban.com/subject/3354490/)**	[百度网盘下载链接](https://pan.baidu.com/s/1GtPbOzpVhFGzvWgXLw7wNw )	提取码：ow5f
 
 **[《高性能MySQL（第3版）》](https://book.douban.com/subject/23008813/)**	[百度网盘下载链接](https://pan.baidu.com/s/13zm0j0HMBtWgLqiQ1Zl41g )	提取码：kdnu
 
 **[《MySQL技术内幕  InnoDB存储引擎  （第2版）》](https://book.douban.com/subject/24708143/)**	[百度网盘下载链接](https://pan.baidu.com/s/1_1XIACDukyOJXzgxgkl4EQ )	提取码：bltn
+
+
 
 
 ## Redis
@@ -111,9 +134,9 @@
 **[《Redis开发与运维》](https://book.douban.com/subject/26971561/)**	[百度网盘下载链接](https://pan.baidu.com/s/1PD_50zkN8nLhMdRhPYLqpw)	提取码：e821
 
 
-# Java
 
 
+# :art: Java
 
 ## Java 基础
 
@@ -134,6 +157,8 @@
 **[《写给大忙人看的Java SE 8》](https://book.douban.com/subject/26274206/)**		[百度网盘下载链接](https://pan.baidu.com/s/1qKKgiLk0L5mz4Lz0l38YIg)	提取码：k6d3
 
 **《jdk1.8 api 中文版》**	[百度网盘下载链接](https://pan.baidu.com/s/1scLmdI8ZCKieZWGdxPbCZA)	提取码：gxlz
+
+
 
 ## 并发
 **[《Java并发编程之美》](https://book.douban.com/subject/30351286/)**	 [百度网盘下载链接](https://pan.baidu.com/s/1lNcaVsEbrIkSqC50Pkb3rA) 	提取码: 7n55 
@@ -174,12 +199,10 @@
 
 **《Spring MVC+MYBatis企业应用实战》**	[百度网盘下载链接](https://pan.baidu.com/s/1TlMh0vAmuOde1v0kBOTIaw) 	提取码：9234
 
-## 面试
-**《JavaGuide面试突击版》**	[百度网盘下载链接](https://pan.baidu.com/s/14RnJRAWNLixzT3k-AxgKXQ) 	提取码：j1q9
 
-**《Java面试题精华集》**	[百度网盘下载链接](https://pan.baidu.com/s/1AJvKoD2LZpiSTTT4YzcISw) 	提取码：kqme
 
-# 微服务&分布式
+
+# :cloud: 微服务&分布式
 **[《分布式系统概念与设计 （第5版）》](https://book.douban.com/subject/21624776/)**		[百度网盘下载链接](https://pan.baidu.com/s/11qhM1MSZgc1pMZ-uzfPhrA) 
 提取码：h66r
 
@@ -188,7 +211,11 @@
 **[《Spring Cloud与Docker微服务架构实战》](https://book.douban.com/subject/27028228/)**	[百度网盘下载链接](https://pan.baidu.com/s/1UWjIMgrb66X_R-ANU-wV_Q) 	提取码：qre5
 
 **[《深入理解Spring Cloud与微服务构建》](https://book.douban.com/subject/30180533/)**		[百度网盘下载链接](https://pan.baidu.com/s/1UUmZJyzOjLRq7B1HuGw4Hw) 	提取码：5sbc
-# 设计模式
+
+
+
+
+# :pencil2: 设计模式
 **[《Head First 设计模式（中文版）》](https://book.douban.com/subject/2243615/)**		[百度网盘下载链接](https://pan.baidu.com/s/1PZJgwgDNREvE8NfC--LDbA) 	提取码：45a3
 
 **[《大话设计模式》](https://book.douban.com/subject/2334288/)**	[百度网盘下载链接](https://pan.baidu.com/s/1_qZVSW0YTUr-kblSzW9wNQ )	提取码：h7hn
@@ -199,9 +226,20 @@
 
 **[《设计模式：可复用面向对象软件的基础》](https://book.douban.com/subject/1052241/)**	[百度网盘下载链接](https://pan.baidu.com/s/1U9O8-7wA4fLf4EJM5Whm9Q )	提取码：gzmx
 
-# 面经
+
+
+
+# :memo: 面试面经
+**《JavaGuide面试突击版》**	[百度网盘下载链接](https://pan.baidu.com/s/14RnJRAWNLixzT3k-AxgKXQ) 	提取码：j1q9
+
+**《Java面试题精华集》**	[百度网盘下载链接](https://pan.baidu.com/s/1AJvKoD2LZpiSTTT4YzcISw) 	提取码：kqme
+
 **《内推熊面经》**	[百度网盘下载链接](https://pan.baidu.com/s/1bf0ifKDJDe4RMnM0u-eBFQ) 	提取码：t0fw
+
 **《字节跳动笔试真题大全》**	[百度网盘下载链接](https://pan.baidu.com/s/1ymFWg_9BtNn8UMbTjSV0sw )	提取码：mmuv
 
-# 免责声明
+
+
+
+# :bulb: 免责声明
 书籍全部来源于网络其他人的整理，这里只是收集整理了他们的链接，如有侵权，马上联系我，我立马删除对应链接。如有链接失效，也请及时联系我。我的邮箱：851901870@qq.com
