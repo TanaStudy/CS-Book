@@ -11,29 +11,22 @@
 
 
 - [计算机基础](#computer-计算机基础)
-  
   - [计算机网络](#计算机网络)
   - [操作系统](#操作系统)
   - [算法](#算法)
   - [数据结构](#数据结构)
-  
 - [数据库](#floppy_disk-数据库)
   - [数据库基础](#数据库基础)
   - [MySQL](#mysql)
   - [Redis](#redis)
-  
 - [Java](#art-Java)
-  - [Java 基础](#java-基础)
+  - [Java基础](#java基础)
   - [并发](#并发)
   - [JVM](#jvm)
   - [Spring/SpringBoot](#springspringboot)
-  
 - [微服务&分布式](#cloud-微服务&分布式)
-
 - [设计模式](#pencil2-设计模式)
-
 - [面经](#memo-面试面经)
-
 - [免责声明](#bulb-免责申明)
 
   
@@ -138,7 +131,7 @@
 
 # :art: Java
 
-## Java 基础
+## Java基础
 
 **[《Effective java 中文版（第2版）》](https://book.douban.com/subject/3360807/)**	[百度网盘下载链接](https://pan.baidu.com/s/1WkNwIuvO6XxogM_RX7s68Q)	提取码：w04h
 
